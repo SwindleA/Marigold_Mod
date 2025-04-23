@@ -1,3 +1,6 @@
+Copy of Original Marigold Repository
+
+
 # Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
 
 **CVPR 2024 (Oral, Best Paper Award Candidate)**
